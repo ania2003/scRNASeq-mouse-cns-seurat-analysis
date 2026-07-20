@@ -21,7 +21,6 @@ This repository contains a cleaned and reproducible Seurat workflow for the Pang
 ├── config/config.R               # Parameters and clustering solutions
 ├── data/raw/                     # Local input files 
 ├── .gitignore
-├── LICENSE
 └── README.md
 ```
 
