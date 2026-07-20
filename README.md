@@ -16,14 +16,10 @@ This repository contains a cleaned and reproducible Seurat workflow for the Pang
 
 ```text
 .
-├── analysis/run_analysis.R       # Complete cleaned pipeline
+├── analysis/run_analysis.R       # Complete  pipeline
 ├── R/functions.R                 # Reusable analysis functions
 ├── config/config.R               # Parameters and clustering solutions
-├── data/raw/                     # Local input files (not tracked by Git)
-├── figures/                      # Generated plots
-├── results/                      # Generated tables and Seurat object
-├── legacy/                       # Original script
-├── install_packages.R
+├── data/raw/                     # Local input files 
 ├── .gitignore
 ├── LICENSE
 └── README.md
