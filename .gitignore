@@ -1,0 +1,19 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+.DS_Store
+Thumbs.db
+
+# Raw and generated data
+data/raw/*
+!data/raw/.gitkeep
+results/*
+!results/.gitkeep
+figures/*
+!figures/.gitkeep
+
+# Large Seurat and serialized objects
+*.rds
+*.RData
